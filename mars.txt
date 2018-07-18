@@ -1,3 +1,5 @@
 Creating first github repo
 
 Not getting Github just yet...
+
+Check out tutorials
